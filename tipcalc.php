@@ -57,6 +57,14 @@
                 color: blue;
                 font-weight: bold;
             }
+
+            #signature {
+                width: 250px;
+                display: block;
+                margin: auto;
+                text-align: right;
+                font-style: italic;
+            }
         </style>
     </head>
     <body>
@@ -113,6 +121,8 @@
             </div>
 
         </div>
+
+        <div id="signature"><p>by Jacob Merizian</p></div>
 
     </body>
 </html>
